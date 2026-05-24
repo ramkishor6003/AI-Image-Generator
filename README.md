@@ -39,7 +39,7 @@ Generate stunning, ultra‑HD realistic images from text prompts using **Stable 
 > **Note:** You need a **Hugging Face token** to download the model.  
 > The Space will automatically use the token you set in the secrets.
 
-[Click here to try the live demo](https://huggingface.co/spaces/your-username/your-space-name) *(replace with your actual Space URL after deployment)*
+[Click here to try the live demo](https://huggingface.co/spaces/kishor0101/Image-Generator) *(replace with your actual Space URL after deployment)*
 
 ---
 
