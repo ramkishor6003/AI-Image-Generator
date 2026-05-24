@@ -4,7 +4,7 @@ A multi-user AI image generator built with Stable Diffusion, Gradio, and PyTorch
 https://github.com/user-attachments/assets/e9b597cc-a8fb-4161-916f-d73a03406e5d
 
 
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/your-username/your-space-name)
+[![Hugging Face Spaces](https://img.shields.io/badge/-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/your-username/your-space-name)
 [![GitHub license](https://img.shields.io/github/license/your-username/AI-Image-Generator)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
@@ -12,7 +12,7 @@ Generate stunning, ultra‑HD realistic images from text prompts using **Stable 
 
 ---
 
-## ✨ Features
+## Features
 
 - **Dual pipeline** – Text‑to‑Image + Image‑to‑Image refinement for higher quality.
 - **Automatic contrast, sharpness & brightness enhancement**.
@@ -23,7 +23,7 @@ Generate stunning, ultra‑HD realistic images from text prompts using **Stable 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** 3.10+
 - **PyTorch** (with CUDA support)
@@ -34,16 +34,16 @@ Generate stunning, ultra‑HD realistic images from text prompts using **Stable 
 
 ---
 
-## 🚀 Live Demo on Hugging Face Spaces
+## Live Demo on Hugging Face Spaces
 
 > **Note:** You need a **Hugging Face token** to download the model.  
 > The Space will automatically use the token you set in the secrets.
 
-👉 [Click here to try the live demo](https://huggingface.co/spaces/your-username/your-space-name) *(replace with your actual Space URL after deployment)*
+[Click here to try the live demo](https://huggingface.co/spaces/your-username/your-space-name) *(replace with your actual Space URL after deployment)*
 
 ---
 
-## 📦 Local Setup & Installation
+## Local Setup & Installation
 
 ### 1. Clone the repository
 
