@@ -1,5 +1,5 @@
 # AI Image Generator – Ultra HD Realistic
-A multi-user AI image generator built with Stable Diffusion, Gradio, and PyTorch, capable of producing ultra HD realistic images from text prompts.
+Generate stunning, ultra‑HD realistic images from text prompts using Stable Diffusion v1.5 with a two‑stage refinement process (Text‑to‑Image → Image‑to‑Image → Enhancement → Upscaling).
 
 https://github.com/user-attachments/assets/e9b597cc-a8fb-4161-916f-d73a03406e5d
 
